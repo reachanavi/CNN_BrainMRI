@@ -142,31 +142,11 @@ The model was run on an Apple M1 chip.
 
 The project was created using Jupyter Notebook.
 
-## Citation [optional]
+## Citation
 
 <!-- If there is a paper or blog post introducing the model, the APA and Bibtex information for that should go in this section. -->
 
-**BibTeX:**
-
-{{ citation_bibtex | default("[More Information Needed]", true)}}
-
-**APA:**
-
-{{ citation_apa | default("[More Information Needed]", true)}}
-
-## Glossary [optional]
-
-<!-- If relevant, include terms and calculations in this section that can help readers understand the model or model card. -->
-
-{{ glossary | default("[More Information Needed]", true)}}
-
-## More Information [optional]
-
-{{ more_information | default("[More Information Needed]", true)}}
-
-## Model Card Authors [optional]
-
-{{ model_card_authors | default("[More Information Needed]", true)}}
+Badža MM, Barjaktarović MČ. Classification of Brain Tumors from MRI Images Using a Convolutional Neural Network. Applied Sciences. 2020; 10(6):1999. https://doi.org/10.3390/app10061999
 
 ## Model Card Contact
 
