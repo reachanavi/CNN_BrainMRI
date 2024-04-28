@@ -30,7 +30,7 @@ This model aims to classify brain MRI images into four different categories of b
 
 <!-- Provide the basic links for the model. -->
 
-- **Repository:** {{ repo | default("[More Information Needed]", true)}}
+- **Repository:** https://github.com/reachanavi/CNN_BrainMRI
 <!-- - **Paper [optional]:** {{ paper | default("[More Information Needed]", true)}} -->
 <!-- - **Demo [optional]:** {{ demo | default("[More Information Needed]", true)}} -->
 
